@@ -5,9 +5,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=keshav-vdoit" alt="keshav-vdoit" /></a> </p>
 
-- 🔭 I’m currently working on [OneMinuteBio](https://oneminutebio.netlify.app)
+- 🔭 I’m currently working on [OneMinuteBio](https://keshavsandhu.in)
 
-- 👨‍💻 All of my projects are available at [https://keshavsandhu-new.netlify.app/](https://keshavsandhu.netlify.app/)
+- 👨‍💻 All of my projects are available at [https://keshavsandhu-new.netlify.app/](https://keshavsandhu.in/)
 
 - 📫 How to reach me **keshavsandhu.me@gmail.com**
 
